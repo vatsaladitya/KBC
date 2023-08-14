@@ -3,14 +3,14 @@ This a simple quiz game I wrote in C++. It has a sample quiz file with 6 questio
 
 ## Format of quiz file
 The quiz file must strictly be in the following format:
-1st question
-Option A
-Option B
-Option C
-Option D
-Correct option
-2nd question
-Option A
+1st question <br>
+Option A <br>
+Option B <br>
+Option C <br>
+Option D <br>
+Correct option <br>
+2nd question <br>
+Option A <br>
 ....
 
 ## Building the project
