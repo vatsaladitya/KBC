@@ -2,7 +2,7 @@
 This a simple quiz game I wrote in C++. It has a sample quiz file with 6 questions. You can add more questions or even create your own quiz file.
 
 ## Format of quiz file
-The quiz file must strictly be in the following format:
+The quiz file must strictly be in the following format: <br>
 1st question <br>
 Option A <br>
 Option B <br>
