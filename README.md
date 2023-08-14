@@ -18,7 +18,7 @@ Code::Blocks + MinGW project files are provided within the repository. It's easy
 This project is WINDOWS-DEPENDENT.
 
 Dependencies:
-1. [FreeGLUT] (https://freeglut.sourceforge.net) (link freeglut_static.lib or freeglut_static.a)
+1. [FreeGLUT](https://freeglut.sourceforge.net) (link freeglut_static.lib or freeglut_static.a)
 2. GDI+
 3. OpenGL 1.1 (Needed for FreeGLUT only)
 4. GLU32
