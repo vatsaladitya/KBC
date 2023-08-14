@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1688566181 source:c:\users\basudev\documents\codeblocks\kbc2\main.cpp
+	"regions.h"
+	"questions.h"
+	"startprompt.h"
+	"img_data.h"
+
+1688543080 c:\users\basudev\documents\codeblocks\kbc2\regions.h
+	"helper.h"
+
+1688544788 c:\users\basudev\documents\codeblocks\kbc2\helper.h
+	<windows.h>
+	<gdiplus.h>
+	<iostream>
+	<string>
+	<fstream>
+	<GL/freeglut.h>
+
+1688566087 c:\users\basudev\documents\codeblocks\kbc2\questions.h
+	"helper.h"
+
+1688568934 c:\users\basudev\documents\codeblocks\kbc2\startprompt.h
+	"helper.h"
+	"resource.h"
+	"about.h"
+	<commctrl.h>
+	<commdlg.h>
+
+1688569496 source:c:\users\basudev\documents\codeblocks\kbc2\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1688569496 c:\users\basudev\documents\codeblocks\kbc2\resource.h
+
+1688552034 c:\users\basudev\documents\codeblocks\kbc2\img_data.h
+
+1688568987 c:\users\basudev\documents\codeblocks\kbc2\about.h
+
+1692007105 source:c:\users\basudev\documents\codeblocks\kbc2\src\main.cpp
+	"regions.h"
+	"questions.h"
+	"startprompt.h"
+	"img_data.h"
+
+1688543080 c:\users\basudev\documents\codeblocks\kbc2\include\regions.h
+	"helper.h"
+
+1688544788 c:\users\basudev\documents\codeblocks\kbc2\include\helper.h
+	<windows.h>
+	<gdiplus.h>
+	<iostream>
+	<string>
+	<fstream>
+	<GL/freeglut.h>
+
+1688572053 c:\users\basudev\documents\codeblocks\kbc2\include\questions.h
+	"helper.h"
+
+1692007343 c:\users\basudev\documents\codeblocks\kbc2\include\startprompt.h
+	"customcontrols.h"
+	"helper.h"
+	"resource.h"
+	"about.h"
+	<commctrl.h>
+	<commdlg.h>
+
+1691927180 c:\users\basudev\documents\codeblocks\kbc2\include\resource.h
+
+1692007322 c:\users\basudev\documents\codeblocks\kbc2\include\about.h
+
+1688552034 c:\users\basudev\documents\codeblocks\kbc2\include\img_data.h
+
+1691927309 source:c:\users\basudev\documents\codeblocks\kbc2\resource\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1692007409 c:\users\basudev\documents\codeblocks\kbc2\include\customcontrols.h
+	<windows.h>
+	<commctrl.h>
+
+1691920055 c:\users\basudev\documents\codeblocks\kbc2\resource\resource.h
+
+1691927254 c:\users\basudev\documents\codeblocks\kbc2\include\splash.h
+	"helper.h"
+	"resource.h"
+
